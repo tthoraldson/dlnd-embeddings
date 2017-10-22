@@ -1,0 +1,8 @@
+__pycache__
+.ipynb_checkpoints/*
+assets/*
+checkpoints/*
+data/*
+Skip-Grams-Solution.ipynb
+text8.zip
+utils.py
